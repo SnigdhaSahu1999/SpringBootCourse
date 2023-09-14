@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component //marks the class as a Spring bean and makes it available for Dependency Injection
 public class CricketCoach implements Coach {
 
-    //definr ur init method
+    //define ur init method
     @PostConstruct
     public void doMyStartupStuff(){
         System.out.println("In doMyStartupStuff(): "+ getClass().getSimpleName());
