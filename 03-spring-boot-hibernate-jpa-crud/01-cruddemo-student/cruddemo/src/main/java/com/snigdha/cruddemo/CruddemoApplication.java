@@ -30,10 +30,10 @@ public class CruddemoApplication {
 		return runner-> {
 
 			// For creating single student
-			//createStudent(studentDAO);
+			createStudent(studentDAO);
 			
 			//For creating multiple students
-			createMultipleStudents(studentDAO);
+			//createMultipleStudents(studentDAO);
 
 			//For fetching a Student
 			//readStudent(studentDAO);
@@ -80,7 +80,7 @@ public class CruddemoApplication {
 
 		//change first name to :John"
 		System.out.println("Updating student..");
-		myStudent.setFirstName("John");
+		myStudent.setFirstName("Kem");
 
 		//update the student
 		studentDAO.update(myStudent);
