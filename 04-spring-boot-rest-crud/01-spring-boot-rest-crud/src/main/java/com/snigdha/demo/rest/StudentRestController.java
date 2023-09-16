@@ -18,6 +18,7 @@ public class StudentRestController {
     // define @PostConstruct to load the student data... only once after the initialization of the bean
 
     @PostConstruct
+    //hard coded value for the Student's DB
     public void loadData(){
 
         theStudents = new ArrayList<>();
