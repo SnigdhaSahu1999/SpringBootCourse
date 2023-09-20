@@ -22,10 +22,13 @@ public class DemoSecurityConfig {
         @Bean  //DataSource is autoconfigured by SB
         public UserDetailsManager userDetailsManager(DataSource dataSource){
 
-            /*only return statement is required for "Default Database Support in Spring Security"
+            /*only return statement is required for "Default Database Support in Spring Security both for noop, bcrypt
+            for "users" and "authorities" tables"
             return new JdbcUserDetailsManager(dataSource);*/
 
-            //rest code is when we create our custom table for security
+
+
+            /*rest code is when we create our custom table for security for "members" and "roles" tables*/
             JdbcUserDetailsManager jdbcUserDetailsManager = new JdbcUserDetailsManager(dataSource);
 
             // define query to retrieve a user by username (how to find users)
