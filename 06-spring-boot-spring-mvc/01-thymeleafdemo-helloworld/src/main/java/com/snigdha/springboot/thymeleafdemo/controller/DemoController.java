@@ -16,6 +16,7 @@ public class DemoController {
         theModel.addAttribute("theDate",new java.util.Date());
 
         return "helloworld";
+        // helloworld.html
         //Since we have thymeleaf dependency in MAVEN POM, SB will autoconfigure to use Thymeleaf
 
 
