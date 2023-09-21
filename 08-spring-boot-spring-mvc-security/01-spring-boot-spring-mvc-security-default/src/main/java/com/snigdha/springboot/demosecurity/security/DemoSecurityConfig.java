@@ -30,6 +30,10 @@ public class DemoSecurityConfig {
                         .requestMatchers("/systems/**").hasRole("ADMIN")
                         .anyRequest().authenticated()
                  )
+
+                /*loginPage("/showMyLoginPage"): Specifies the custom login page URL.
+                  loginProcessingUrl("/authenticateTheUser"): Specifies the URL where the login form should be submitted for authentication.
+                  permitAll(): Allows anyone (unauthenticated users) to access the login page.*/
                 .formLogin(form ->
                         form
                                 .loginPage("/showMyLoginPage")
