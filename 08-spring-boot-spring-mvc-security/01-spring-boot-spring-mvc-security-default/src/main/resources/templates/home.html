@@ -45,6 +45,7 @@
 
     <hr>
     <!-- Add a logout button -->
+    <!--th:action="@{/logout}" -> no controller class is needed, The spring security filters will handle them on its own -->
     <form action="#" th:action="@{/logout}" method="POST">
 
         <input type="submit" value="Logout" />
