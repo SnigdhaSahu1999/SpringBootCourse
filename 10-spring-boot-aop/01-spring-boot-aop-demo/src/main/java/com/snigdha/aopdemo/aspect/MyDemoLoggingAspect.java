@@ -15,7 +15,7 @@ public class MyDemoLoggingAspect {
     // pointcut expression (run this code BEFORE the declared method)
    // @Before("execution(public void addAccount()))")
 
-     /*@Before("execution(public void com.snigdha.aopdemo.dao.AccountDAO.addAccount())")
+     /*@Before("execution(public void com.snigdha.aopdemo.dao.AccountDAO.addAccount(..))")
     public void beforeAddAccountAdvice(){
 
         System.out.println("\n====>> Executing @Before advice on addAccount()");
