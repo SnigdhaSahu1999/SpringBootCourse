@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a67257-3875-450b-9095-8b5d0fb9ca1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../01-spring-boot-overview/01-spring-boot-demo/01-spring-boot-demo/mycoolapp/src/main/java/com/snigdha/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-overview/01-spring-boot-demo/01-spring-boot-demo/mycoolapp/src/main/java/com/snigdha/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-spring-boot-overview/01-spring-boot-demo/01-spring-boot-demo/mycoolapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-overview/01-spring-boot-demo/01-spring-boot-demo/mycoolapp/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/01-constructor-injection/springcoredemo/src/main/java/com/snigdha/springcoredemo/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-spring-boot-spring-core/01-constructor-injection/springcoredemo/src/main/java/com/snigdha/springcoredemo/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/01-constructor-injection/springcoredemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../02-spring-boot-spring-core/01-constructor-injection/springcoredemo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/04-bean-lifecycle-methods/springcoredemo/src/main/java/com/snigdha/springcoredemo/common/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-spring-boot-spring-core/04-bean-lifecycle-methods/springcoredemo/src/main/java/com/snigdha/springcoredemo/common/CricketCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/05-java-config-bean/springcoredemo/src/main/java/com/snigdha/springcoredemo/rest/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-spring-boot-spring-core/05-java-config-bean/springcoredemo/src/main/java/com/snigdha/springcoredemo/rest/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/mvnw" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/mvnw.cmd" beforeDir="false" />
@@ -16,18 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/main/java/com/snigdha/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/test/java/com/snigdha/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/cruddemo/src/main/java/com/snigdha/cruddemo/CruddemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/cruddemo/src/main/java/com/snigdha/cruddemo/CruddemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/cruddemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/cruddemo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/snigdha/demo/rest/StudentRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/snigdha/demo/rest/StudentRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud/20-spring-boot-rest-crud-employee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/20-spring-boot-rest-crud-employee/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud/40-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java/com/snigdha/springboot/cruddemo/dao/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/40-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java/com/snigdha/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-thymeleafdemo-helloworld/src/main/java/com/snigdha/springboot/thymeleafdemo/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-thymeleafdemo-helloworld/src/main/java/com/snigdha/springboot/thymeleafdemo/controller/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-thymeleafdemo-helloworld/src/main/resources/templates/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-thymeleafdemo-helloworld/src/main/resources/templates/helloworld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10-spring-boot-aop/01-spring-boot-aop-demo/src/main/java/com/snigdha/aopdemo/dao/MembershipDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-spring-boot-aop/01-spring-boot-aop-demo/src/main/java/com/snigdha/aopdemo/dao/MembershipDAOImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +23,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
