@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93bb89ae-70bf-4cd6-b0c6-70369560b946" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/main/java/com/snigdha/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-spring-boot-spring-core/springcoredemo/springcoredemo/src/test/java/com/snigdha/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WGR4e6U0WCJP7bKmY5kVwHeLNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bb89ae-70bf-4cd6-b0c6-70369560b946" name="Changes" comment="" />
+      <created>1696356739218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696356739218</updated>
+    </task>
+    <servers />
+  </component>
+</project>
